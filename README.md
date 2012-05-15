@@ -1,0 +1,1 @@
+Fork of diagrams-tikz, adopted to diagrams 0.5 and few minor changes. Plan is to add support for ConTeXt, pure PGF and a stand alone preamble.
