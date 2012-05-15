@@ -4,7 +4,7 @@ Synopsis:            TikZ backend for diagrams drawing EDSL.
 Homepage:            http://code.haskell.org/diagrams/
 License:             BSD3
 License-file:        LICENSE
-Author:              Scott N. Walck, Felipe Lessa, Malte Harder
+Author:              Scott N. Walck
 Maintainer:          diagrams-discuss@googlegroups.com
 Stability:           Experimental
 Category:            Graphics
