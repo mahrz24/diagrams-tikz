@@ -22,7 +22,7 @@ Library
   Other-modules:       Diagrams.Backend.TikZ.Base
   Hs-source-dirs:      src
   Build-depends:       base          >= 4.4   && < 4.6
-                     , mtl >= 2.0 && < 2.1
+                     , mtl >= 2.1 && < 2.2
                      , old-time >= 1.0 && < 1.2
                      , process >= 1.0 && < 1.2
                      , directory >= 1.0 && < 1.2
@@ -31,7 +31,7 @@ Library
                      , colour
                      , diagrams-core >= 0.5   && < 0.6
                      , diagrams-lib  >= 0.5   && < 0.6
-                     , cmdargs       >= 0.6   && < 0.9
+                     , cmdargs       >= 0.6   && < 0.10
                      , split         >= 0.1.2 && < 0.2
                      , dlist         >= 0.5   && < 0.6
 
