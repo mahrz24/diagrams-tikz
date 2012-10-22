@@ -24,7 +24,7 @@ import Diagrams.Prelude hiding (r2)
 
 import Diagrams.TwoD.Adjust (adjustDia2D)
 import Diagrams.TwoD.Text
-import Graphics.Rendering.Diagrams.Points
+import Diagrams.Core.Points
 
 import Control.Monad.Identity
 import Data.Maybe (catMaybes)
